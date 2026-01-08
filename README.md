@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm José 👋
+Backend/API developer focused on workflow automation, traceability and data.
+Reliability Engineer transitioning to software.
 
-<!--
-**JooseGui/JooseGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 Remote (UTC-3, Chile)
+- 🧩 Interests: Backend, REST APIs, SQL, automation, dashboards
+- 🧰 Tools: Python, SQL, Power BI, Excel, Linux
+- 🔗 LinkedIn: https://www.linkedin.com/in/jose-rios-uribe-a50b831ba
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- Transport Status & Notifications (API/workflow) – (link when repo is public)
+- Power BI dashboards – (link when repo is public)
