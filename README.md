@@ -1,12 +1,34 @@
-## Hi, I'm José 👋
-Backend/API developer focused on workflow automation, traceability and data.
-Reliability Engineer transitioning to software.
+# Hi, I'm José
 
-- 🌎 Remote (UTC-3, Chile)
-- 🧩 Interests: Backend, REST APIs, SQL, automation, dashboards
-- 🧰 Tools: Python, SQL, Power BI, Excel, Linux
-- 🔗 LinkedIn: https://www.linkedin.com/in/jose-rios-uribe-a50b831ba
+Backend/API developer and Data Analyst focused on Python, SQL, Excel and Power BI.  
+I build backend services and analytics projects with a strong emphasis on traceability, KPIs and operational efficiency.
 
-### Featured projects
-- Transport Status & Notifications (API/workflow) – (link when repo is public)
-- Power BI dashboards – (link when repo is public)
+## What I do
+
+- Backend development with Python (APIs, workflows, automation)
+- Data analysis and reporting (Excel, Power BI, SQL)
+- KPI definition, dashboards and business-oriented insights
+- Clean, documented and structured projects
+
+## Featured projects
+
+- **Transport Status & Notifications API**  
+  Backend API for workflow-based dispatch tracking and notifications.  
+  👉 https://github.com/JooseGui/biocomp-transport-status-api
+
+- **Data Analytics Portfolio (Excel / Power BI)**  
+  Dashboards and datasets focused on operational KPIs and reporting.  
+  👉 https://github.com/JooseGui/powerbi-excel-analytics
+
+## Tech stack
+
+- Python
+- SQL
+- Excel (advanced)
+- Power BI
+- Git & GitHub
+
+## Location & availability
+
+- Remote (UTC-3)
+- Open to remote opportunities (Backend / Data)
